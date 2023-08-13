@@ -1,0 +1,25 @@
+                  Tic Tac Toe Multiplayer over Internet/LAN
+
+As the name suggest, this game is multiplayer. Here i am using sockets and Ngrok to tunnel the sockets. To use Ngrok , you need a Ngrok account and AuthToken if you are creating a room.
+
+To Signup :
+Click *[(here) (https://ngrok.com/)]* to go to the ngrok website then create account there.
+
+To get AuthToken :
+Click *[(here) (https://dashboard.ngrok.com/get-started/your-authtoken)]* to go to the ngrok dashboard then copy the AuthToken.
+
+Create a room :
+Initially when you click create a room, you will be assigned to one "User ID", "Player Name" that you have to type, "Password" checkbox if you want to secure the room, "On/Offline" checkbox if you want to play over internet or LAN and finally "Ngrok Authtoken" that you have copied.
+After you finish filling all the details, your friend have to copy your "user ID" and "Password" if he/she wants to play with you.
+Click "Submit"
+Then you have to wait until your friend joins.
+
+Note:
+You have to give "Ngrok Authtoken" only once.
+
+Join a room :
+After you got the credentials of a room, you have to fill "User ID","Password" and "Palyer Name" i.e your name.
+Then click "Join"
+
+Enjoy-
+                                            By - Louise Patra
